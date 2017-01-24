@@ -15,21 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Skrá.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Skrá.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Skrá.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Git_GSO/Skrá.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="255">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -100,7 +90,7 @@
       <recent name="H:\GSÖ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Skrá">
+  <component name="RunManager" selected="Python.Skrá (1)">
     <configuration default="false" name="Skrá" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,6 +104,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Áfangi 1" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Skrá.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Skrá (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Git_GSO" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Áfangi 1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Git_GSO/Skrá.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -252,12 +259,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.Skrá" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Skrá (1)" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.Skrá" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.Skrá (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Skrá" />
       </list>
     </recent_temporary>
   </component>
@@ -331,8 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Git_GSO/Skrá.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding />
         </state>
       </provider>
